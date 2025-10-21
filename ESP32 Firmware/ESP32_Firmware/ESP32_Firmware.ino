@@ -16,8 +16,8 @@
 #include <WiFi.h>
 
 // WiFi Credentials (Change these values accordingly)
-const char* WIFI_SSID = "Dameten";
-const char* WIFI_PASSWORD = "joel2222";
+const char* WIFI_SSID = "Username";
+const char* WIFI_PASSWORD = "password";
 
 // APA102 Dotstar LED Pins (Updated for ESP32-PICO-KIT V4)
 #define DOTSTAR_PWR 26  // Adjusted for ESP32-PICO-KIT V4
